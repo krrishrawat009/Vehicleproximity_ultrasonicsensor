@@ -90,8 +90,7 @@ Arduino Pin 13 --[220Ω]--→ Red LED --→ GND
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Authors
 - Krishna Rawat (RA2311030010088)
